@@ -1,8 +1,9 @@
-# React + Vite
+# Gemini Clone App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the front-end of an AI-powered application, built using React. The app offers an intuitive user interface for interacting with an AI model or service, showcasing a modern and dynamic experience.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Responsive Design: The app is fully responsive, providing a seamless experience across devices (mobile, tablet, and desktop).
+Dynamic User Interface: Built using React components, the app dynamically updates based on user interactions without needing to reload the page.
+AI Integration: Users can input queries or prompts to interact with the AI, and receive outputs in real-time.
+Interactive Elements: Includes buttons, input fields, and other UI elements to enhance usability.
